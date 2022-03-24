@@ -96,7 +96,7 @@ Apprenticeship as a Research Method
 
 Marchand, Trevor H. J. "[Muscles, Morals, and Mind: Craft Apprenticeship and the Formation of the Person](http://dx.doi.org/10.1111/j.1467-8527.2008.00407.x)." _British Journal of Educational Studies_ 56, no. 3 (2008): 245–71.
 
-Nardi, Bonnie A., Stella Ly, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Learning Conversations in World of Warcraft." (PDF)](http://www.artifex.org/~bonnie/pdf/Nardi-HICSS.pdf) _Proceedings of Hawaii International Conference on System Sciences 40_ 2007.
+Nardi, Bonnie A., Stella Ly, et al. ["Learning Conversations in World of Warcraft." (PDF)](http://www.artifex.org/~bonnie/pdf/Nardi-HICSS.pdf) _Proceedings of Hawaii International Conference on System Sciences 40_ 2007.
 
 O'Connor, Erin. "[Embodied Knowledge in Glassblowing: The Experience of Meaning and the Struggle Towards Proficiency](http://dx.doi.org/10.1111/j.1467-954X.2007.00697.x)." _The Sociological Review_ 55, no. 1 (2007): 126–41.
 
@@ -257,7 +257,7 @@ Personhood and Identity
 
 Bryant, Rebecca. "[The Soul Danced into the Body: Nation and Improvisation in Istanbul](http://dx.doi.org/10.1525/ae.2005.32.2.222)." _American Ethnologist_ 32, no. 2 (2005): 222–38.
 
-Bucholtz, Mary. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["'Why Be Normal?': Language and Identity Practices in a Community of Nerd Girls." (PDF)](http://www.linguistics.ucsb.edu/faculty/bucholtz/sites/secure.lsit.ucsb.edu.ling.d7_b/files/sitefiles/research/publications/Bucholtz1999-LinS.pdf) _Language in Society_ 28 (1999): 203–23.
+Bucholtz, Mary. ["'Why Be Normal?': Language and Identity Practices in a Community of Nerd Girls." (PDF)](http://www.linguistics.ucsb.edu/faculty/bucholtz/sites/secure.lsit.ucsb.edu.ling.d7_b/files/sitefiles/research/publications/Bucholtz1999-LinS.pdf) _Language in Society_ 28 (1999): 203–23.
 
 Wortham, Stanton. "[From Good Student to Outcast: The Emergence of a Classroom Identity](http://dx.doi.org/10.1525/eth.2004.32.2.164)." _Ethos_ 32, no. 2 (2004): 164–87.
 
@@ -278,7 +278,7 @@ Cognition and Perception
 {{< tdopen >}}
 
 
-Becker, Howard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Becoming a Marihuana User." (PDF)](http://www.personal.psu.edu/exs44/012/becker_marijuana.pdf) _The American Journal of Sociology_ 59, no. 3 (1953): 235–42.
+Becker, Howard. ["Becoming a Marihuana User." (PDF)](http://www.personal.psu.edu/exs44/012/becker_marijuana.pdf) _The American Journal of Sociology_ 59, no. 3 (1953): 235–42.
 
 Hutchins, Edwin. "Learning to Navigate." In _Understanding Practice: Perspectives on Activity and Context._ Edited by Seth Chaiklin, and Jean Lave. Cambridge University Press, 1993, pp. 35–63. ISBN: 9780521392631.
 
